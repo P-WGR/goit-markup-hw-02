@@ -29,8 +29,8 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 }
 /* COLOR CHANGE */
-.menu-list:hover,
-.menu-list:focus,
-.menu-list:active {
+.menu-item:hover,
+.menu-item:focus,
+.menu-item:active {
     color: #404bbf;
 }
