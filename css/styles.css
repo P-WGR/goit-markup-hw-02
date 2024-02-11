@@ -36,15 +36,3 @@ color: #404bbf;
     color: #404bbf;
 }
 
-a.menu[class*="^[a-z_-]{3,}$"] {
-    line-height: 1.5;
-  
-    letter-spacing: 0.02em;
-    
-}
-
-a.menu[class*="^[a-z_-]{3,}$"]:hover,
-a.menu[class*="^[a-z_-]{3,}$"]:focus {
-    color: #404bbf;
-    
-}
