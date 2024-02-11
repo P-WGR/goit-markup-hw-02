@@ -73,12 +73,16 @@ color: #404bbf;
 }
 
 .heading-two {
-    styl font-size: 36px;
+    font-size: 36px;
     line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+}
+
+.team-list {
+    background-color: #FFFFFF;
 }
 
 /* HEADING */
