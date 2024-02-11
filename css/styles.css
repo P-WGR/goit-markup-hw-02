@@ -52,7 +52,7 @@ color: #404bbf;
     background-color: #2e2f42;
 }
 
-/* SECTION 2 - h3*/
+/* SECTION 2 - h3 + H3 from SECTION 3*/
 .heading-three {
     font-weight: 500;
     font-size: 20px;
@@ -62,6 +62,7 @@ color: #404bbf;
 }
 
 .paragraph-header {
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 
