@@ -52,6 +52,15 @@ color: #404bbf;
     background-color: #2e2f42;
 }
 
+/* SECTION 2 */
+.section-two {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
 /* HEADING */
 .heading {
     font-size: 56px;
