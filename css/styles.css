@@ -25,7 +25,7 @@ color: #4d5ae5;
 font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: #2e2f42;
+color: #434455;
 }
 /* COLOR CHANGE */
 .menu:hover {
@@ -34,4 +34,17 @@ color: #404bbf;
 
 .menu:focus {
     color: #404bbf;
+}
+
+a.menu[class*="^[a-z_-]{3,}$"] {
+    line-height: 1.5;
+  
+    letter-spacing: 0.02em;
+    
+}
+
+a.menu[class*="^[a-z_-]{3,}$"]:hover,
+a.menu[class*="^[a-z_-]{3,}$"]:focus {
+    color: #404bbf;
+    
 }
