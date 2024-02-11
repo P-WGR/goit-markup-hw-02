@@ -72,6 +72,12 @@ color: #2e2f42;
     background-color: #2e2f42;
 }
 
+.paragraph {
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em
+}
+
 /* LOGO FOOTER */
 .logo-footer {
         font-family: "Raleway", sans-serif;
@@ -81,4 +87,8 @@ color: #2e2f42;
             letter-spacing: 0.03em;
             text-transform: uppercase;
             color: #4d5ae5;
+}
+
+.logo-span-footer {
+    color: #f4f4fd
 }
