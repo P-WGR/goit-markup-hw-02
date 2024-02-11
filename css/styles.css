@@ -5,130 +5,33 @@ body {
 }
 
 /* LOGO */
-.web-studio {
-    font-family: 'Raleway', sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4d5ae5;
+.logo {
+font-family: 'Raleway', sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
 }
 
-.studio {
-    color: #2e2f85;
-}
-
-/* HEADER */
-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 20px 100px;
-}
-
-nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-
-nav ul li {
-    display: inline;
-    margin-right: 20px;
-}
-
-nav ul li a {
-    text-decoration: none;
-    color: #434455;
-    transition: color 0.3s ease;
-}
-
-nav ul li a:hover {
-    color: #4d5ae5;
-}
-
+/* ADDRESS */
 .address {
-    font-size: 14px;
+    font-style: normal;
 }
 
-/* MAIN */
-main {
-    padding: 0 100px;
+/* LINKS */
+.index {
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2e2f42;
 }
 
-/* SECTION ONE */
-.section-one {
-    padding: 100px 0;
-    text-align: center;
+.portfolio {
+
 }
 
-.order-service {
-    padding: 15px 30px;
-    background-color: #4d5ae5;
-    color: #ffffff;
-    border: none;
-    border-radius: 5px;
-    font-size: 16px;
-    cursor: pointer;
-}
+.contacts {
 
-.order-service:hover {
-    background-color: #2e2f85;
-}
-
-/* SECTION TWO */
-.section-two {
-    padding: 50px 0;
-}
-
-.section-two ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-.section-two ul li {
-    margin-bottom: 50px;
-}
-
-.section-two ul li h3 {
-    color: #4d5ae5;
-}
-
-/* SECTION THREE */
-.section-three {
-    padding: 50px 0;
-}
-
-.section-three ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-.section-three ul li {
-    display: inline-block;
-    text-align: center;
-    margin: 0 20px;
-}
-
-.section-three ul li img {
-    border-radius: 50%;
-}
-
-/* FOOTER */
-footer {
-    background-color: #f0f0f0;
-    padding: 50px 100px;
-    text-align: center;
-}
-
-.footer-link {
-    font-size: 24px;
-    font-weight: 700;
-    color: #4d5ae5;
-    text-decoration: none;
-}
-
-.footer-link:hover {
-    color: #2e2f85;
 }
