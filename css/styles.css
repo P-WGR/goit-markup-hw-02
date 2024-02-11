@@ -35,7 +35,8 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 .menu-address:hover,
-.menu-focus {
+.menu-address:focus,
+.menu-address:active {
 color: #404bbf;
 }
 
