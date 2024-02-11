@@ -52,8 +52,8 @@ color: #404bbf;
     background-color: #2e2f42;
 }
 
-/* SECTION 2 */
-.section-two {
+/* SECTION 2 - h3*/
+.heading-three {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -67,8 +67,15 @@ color: #404bbf;
 
 }
 
+/* SECTION 3 */
+.section-three {
+    background-color: #F4F4FD;
+}
+
+
+
 /* HEADING */
-.heading {
+.heading-one {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
