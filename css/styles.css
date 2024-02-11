@@ -27,4 +27,11 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #2e2f42;
 }
+/* COLOR CHANGE */
+.menu:hover {
+color: #404bbf;
+}
 
+.menu:focus {
+    color: #404bbf;
+}
