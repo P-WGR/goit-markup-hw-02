@@ -61,6 +61,12 @@ color: #404bbf;
     color: #2e2f42;
 }
 
+.paragraph-header {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+
+}
+
 /* HEADING */
 .heading {
     font-size: 56px;
@@ -93,7 +99,7 @@ color: #404bbf;
     background-color: #2e2f42;
 }
 
-.paragraph {
+.paragraph-footer {
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em
