@@ -28,6 +28,17 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #2e2f42;
 }
+
+.menu-address {
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+.menu-address:hover,
+.menu-focus {
+color: #404bbf;
+}
+
 /* COLOR CHANGE */
 .menu-item:hover,
 .menu-item:focus,
