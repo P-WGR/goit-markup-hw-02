@@ -148,3 +148,7 @@ color: #404bbf;
 .logo-span-footer {
     color: #f4f4fd
 }
+
+[img] {
+    display: block;
+}
